@@ -34,6 +34,8 @@ Com a realização deste projeto consegui entender o uso de props, axios, criaç
  - Abra o terminal no editor e rode o comando `npm install` para serem instaladas as dependências utilizadas no projeto 
  - Após dê o comando `npm start` para a aplicação abrir no seu navegador
 ## Visualização 🧐
-![](Peek 29-04-2022 16-52.gif)
+![](Peek-29-04-2022-16-52.gif)
+
+
 
 👓  [VISUALIZAR APLICAÇÃO WEB](https://accurate-drain.surge.sh/)
